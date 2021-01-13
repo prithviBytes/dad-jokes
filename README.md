@@ -8,15 +8,14 @@ A React Application that fetches random Jokes from an API.
 <ul>
   <li>Data Presistance: The Jokes are saved into the local storage.</li>
   <li>Voting: User can Upvote and Downvote a particular Joke</li>
-</ul>
+<ul>
 
 ### Packages
 <ul>
-  <li>Axios: To make a GET request.<li>
-  <li>uuid: To generate unique id.</li>
-  <li>Font-Awesome: For Icons </li>
+  <li>uuid: To generate unique id</li>
+  <li>Font-Awesome: For Icons</li>
+  <li>Axios: To make a GET request<li>
 </ul>
-
 ### Environment
 
 This App was made using online IDE -> Codesandbox and was deployed using Netlify.
