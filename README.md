@@ -10,6 +10,13 @@ A React Application that fetches random Jokes from an API.
   <li>Voting: User can Upvote and Downvote a particular Joke</li>
 </ul>
 
+### Packages
+<ul>
+  <li>Axios: To make a GET request.<li>
+  <li>uuid: To generate unique id.</li>
+  <li>Font-Awesome: For Icons </li>
+</ul>
+
 ### Environment
 
 This App was made using online IDE -> Codesandbox and was deployed using Netlify.
