@@ -8,7 +8,16 @@ A React Application that fetches random Jokes from an API.
 <ul>
   <li>Data Presistance: The Jokes are saved into the local storage.</li>
   <li>Voting: User can Upvote and Downvote a particular Joke</li>
+</ul>
+
+### Packages
+
 <ul>
+  <li>axios: To make get request.</li>
+  <li>uuid: To generate unique id.</li>
+  <li>font-awesome: to get attractive icons.</li>
+</ul>
+
 
 ### Environment
 
