@@ -2,7 +2,7 @@
 
 ### General Info
 
-A React Application that fetches random Jokes from an API.
+A React Application that fetches random Jokes from an API
 
 ### Features
 <ul>
