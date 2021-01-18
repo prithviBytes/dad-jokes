@@ -27,7 +27,7 @@ This App was made using online IDE -> Codesandbox and was deployed using Netlify
 
 ![DEMO GIF](https://github.com/prithviBytes/dad-jokes/blob/main/5ffed4a644d2e821581401.gif?raw=true)
 
-### Try it out !!!
+### Try it out !!
 
 Having A Bad Day? Let cheer you up. Check out the App => <a href="https://csb-7pjvo.netlify.app/">Dad Jokes</a>
 
